@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloML.App", "HelloML.App\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloML.Trainer", "HelloML.Trainer\HelloML.Trainer.csproj", "{D5D6DC3B-01A7-49EB-A959-C45C0F04E740}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloML.Model", "HelloML.Model\HelloML.Model.csproj", "{87098441-D167-450C-A7A1-58918D73F9C1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloML.Model", "HelloML.Model\HelloML.Model.csproj", "{F1020268-099E-4D0D-BA5C-320A345C873E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{D5D6DC3B-01A7-49EB-A959-C45C0F04E740}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5D6DC3B-01A7-49EB-A959-C45C0F04E740}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5D6DC3B-01A7-49EB-A959-C45C0F04E740}.Release|Any CPU.Build.0 = Release|Any CPU
-		{87098441-D167-450C-A7A1-58918D73F9C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{87098441-D167-450C-A7A1-58918D73F9C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{87098441-D167-450C-A7A1-58918D73F9C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{87098441-D167-450C-A7A1-58918D73F9C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1020268-099E-4D0D-BA5C-320A345C873E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1020268-099E-4D0D-BA5C-320A345C873E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1020268-099E-4D0D-BA5C-320A345C873E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1020268-099E-4D0D-BA5C-320A345C873E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

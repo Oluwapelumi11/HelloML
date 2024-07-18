@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace HelloML.Model
 {
-    public class ModelOutput
+    internal class ModelOutput
     {
     }
 }

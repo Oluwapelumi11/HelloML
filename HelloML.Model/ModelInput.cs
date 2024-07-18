@@ -5,6 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace HelloML.Model
 {
     public class ModelInput
@@ -14,5 +15,6 @@ namespace HelloML.Model
 
         [LoadColumn(1)]
         public float Sales { get; set; }
+        
     }
 }
